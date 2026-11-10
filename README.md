@@ -4,9 +4,38 @@
 
 ### Partie 1.4 : Effectuer le premier commit
 
-Question 1: la différence entre `git init`, `git add` et `git commit` est pour quoi c'est utilisé :
+Question 1 : la différence entre `git init`, `git add` et `git commit` est pour quoi c'est utilisé :
 
      `git init` est pour initialiser le projet et voir ou en est le projet.
      `git add` est pour ajouter nos fichiers, dossier aux projet final.
      `git commit` est pour enregistrer nosmodifications faites.
 
+
+## 2 : Publier votre dépôt sur GitHub
+
+### Partie 2.4 : Vérifier la configuration
+
+Question 2 : 
+
+1. La différence entre `un dépôt local` et `un dépôt distant` est que `un dépôt local` est la copie de votre projet stockée directement sur votre propre ordinateur alors que `un dépôt distant` est hébergé sur GitHub.
+
+2. Le nom `origin` correspond au nom par defalt qui est donné par GitHub.
+
+3. Le rôle de la commande `git push` sert à pousser toutes les données dans notre répertoire GitHub.
+
+4. L'option `-u` dans `git push -u origin main` sert à associer la branche local à la branche distante.
+
+
+### Partie 2.5 : Installer le projet et lancer ses tests
+
+Question 3 : 
+
+1. L'intéret d'un `environnement virtuel` est de pouvoir faire des tests sans risquer aucun problème. 
+Le test de division par zéro peut réussir alors que le programme lève une exeception car ......
+
+
+## 5 : Observer la première CI (Intégration Continue) sur GitHub
+
+Question 4 :
+
+1. 
