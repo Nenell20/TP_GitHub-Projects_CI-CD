@@ -53,8 +53,15 @@ Question 5 :
 ## 8 : Bilan et compte rendu
 
 - Dépôt GitHub : https://github.com/Nenell20/TP_GitHub-Projects_CI-CD
+
 - Nom de la branche principale utilisé : Main
+
 - Capture d'écran de mon dépôt GitHub : ![alt text](/images/image.png)
-- Capture de mon Pull Request : ![alt text](/images/image-1.png)
-- 
+
+- Capture de mon Pull Request avant et aprés l'erreur :  
+     ![alt text](image.png)  
+     ![alt text](/images/image-1.png)
+
+- Le nom du test qui était en échec est : `Test Python`.
+
 - La différence entre un `test exécuté localement` et une `CI exécuté par GitHub` est qu'un `test exécuté localement` il y en as un qui dépend de l'environnement du poste et qui est lancé manuellement, tandis qu'une `CI` est lancé par GitHub et il lance les vérifications tout seul.
