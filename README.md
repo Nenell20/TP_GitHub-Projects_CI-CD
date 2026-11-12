@@ -1,5 +1,7 @@
 # TP GitHub project
 
+![CI](https://github.com/Nenell20/TP_GitHub-Projects_CI-CD/actions/workflows/ci-cd.yml/badge.svg)
+
 ## 1 : Créer votre projet en local
 
 ### Partie 1.4 : Effectuer le premier commit
