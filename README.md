@@ -1,5 +1,7 @@
 # TP GitHub project
 
+![CI](https://github.com/Nenell20/TP_GitHub-Projects_CI-CD/actions/workflows/ci-cd.yml/badge.svg)
+
 ## 1 : Créer votre projet en local
 
 ### Partie 1.4 : Effectuer le premier commit
@@ -38,4 +40,11 @@ Le test de division par zéro peut réussir alors que le programme lève une exe
 
 Question 4 :
 
-1. 
+1. Le premier `push` sur `main` déclanche automatiquement la `CI` car le ils sont configuré ensemble pour fonctionner.
+
+
+## 6 : Provoquer une erreur et lire le diagnostique
+
+Question 5 :
+
+1. Le test détecte la régression car, lors de l'éxecution il y a des informations connus et vérifier. Le journal que l'icône rouge ne montre pas nous apprend l'étape qui as échoué et le nom du test.
